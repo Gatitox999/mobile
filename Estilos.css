@@ -1,0 +1,256 @@
+*{
+  background-color: darkcyan;
+}
+
+h1{
+  background: ;
+  font-family: Tourney;
+  text-align: center;
+  color: white;
+  font-size: 150px;
+  margin-top: 20px;
+  
+  
+}
+
+  
+nav > ul {
+  display: -webkit-inline-box;
+  justify-content: none;
+}
+
+li {
+  margin: 0 .75rem;
+  list-style: none;
+  text-decoration: none;
+
+
+
+  
+
+}
+
+
+.tito{
+  font-size: 40px;
+  color: white;
+  font-family: tourney;
+  text-decoration: none;
+
+
+
+}
+
+.teto{
+  font-size: 40px;
+  color: white;
+  font-family: tourney;
+  
+  
+
+
+}
+
+
+
+.po{
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px;
+  
+}
+
+.caja { 
+font-family: Sacramento; 
+font-size: 25px; 
+font-weight: 40; 
+color: white; 
+background: cadetblue ;
+}
+
+
+.box{
+  background: cyan;
+  transition: background-color 6s;
+  clip-path: circle(13% at center);
+  transition-property: clip-path;
+  transition-duration: 3s;
+}
+
+.box:hover{
+  background-color: green;
+  transition-duration: 3s;
+  clip-path: circle(24% at center);
+
+
+
+}
+
+.box2{
+  background: cyan;
+  transition: background-color 6s;
+  clip-path: circle(13% at center);
+  transition-property: clip-path;
+  transition-duration: 3s;
+}
+
+.box2:hover{
+  background-color: green;
+  transition-duration: 3s;
+  clip-path: circle(24% at center);
+
+}
+
+.box3{
+  background: cyan;
+  transition: background-color 6s;
+  clip-path: circle(13% at center);
+  transition-property: clip-path;
+  transition-duration: 3s;
+}
+
+
+.box3:hover{
+  background-color: green;
+  transition-duration: 3s;
+  clip-path: circle(24% at center);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.por2 {
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px
+}
+
+.caja2 {
+  font-family: Sacramento;
+  font-size: 25px;
+  font-weight: 40;
+  color: white;
+  background: cadetblue;
+}
+
+.por3 {
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px
+}
+
+.caja3 {
+  font-family: Sacramento;
+  font-size: 25px;
+  font-weight: 40;
+  color: white;
+  background: cadetblue;
+}
+
+.por4 {
+  color: white;
+  font-family: Sacramento;
+  font-size: 50px
+}
+
+.caja4 {
+  font-family: Sacramento;
+  font-size: 25px;
+  font-weight: 40;
+  color: white;
+  background: cadetblue;
+}
+.lista1{
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+}
+
+
+
+
+
+.gifo{
+  display: block;
+  margin: auto;
+}
+
+.uno{
+  display: block;
+  margin: auto;
+}
+
+.kato{
+  display: block;
+  margin: auto;
+}
+
+.kato1{
+  display: block;
+  margin: auto;
+  
+}
+.kato2{
+  display: block;
+  margin: auto;
+}
+
+.footer{
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 100;
+}
+
+.pie{
+
+
+}
+
+
+.face{
+  display: block;
+  margin: auto;
+}
+
+.ins{
+  display: block;
+  margin: auto;
+}
